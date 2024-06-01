@@ -30,7 +30,7 @@ This is the screenshot of the output.
 ### Links
 
 
-- Live Site URL: [https://psunidhi03.github.io/QRcode/]
+- Live Site (solution) URL:[ Qr-solution-link](https://psunidhi03.github.io/QRcode/)
 
 ## My process
 
